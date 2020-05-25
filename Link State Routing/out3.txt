@@ -1,0 +1,13 @@
+Enter n value: 
+Enter next row: 
+Enter next row: 
+Enter next row: 
+Enter next row: 
+Enter next row: 
+Enter gateway routers: 
+Forwarding table for 4
+To	Cost	Next
+1	4	5
+2	2	5
+3	3	5
+5	1	5

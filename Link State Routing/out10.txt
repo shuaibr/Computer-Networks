@@ -1,0 +1,7 @@
+Enter n value: 
+Enter next row: 
+Enter next row: 
+Enter gateway routers: 
+Forwarding table for 1
+To	Cost	Next
+2	1	2
